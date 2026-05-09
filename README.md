@@ -74,7 +74,7 @@ java -jar target/org-analyzer-1.0.0.jar src/main/resources/employees.csv
 Successfully loaded 5 employees.
 
 === Managers earning less than they should ===
-  Martin Chekov earns 15000.00 less than the required minimum
+- Martin Chekov earns 15000.00 less than the required minimum
 
 === Managers earning more than they should ===
 None
@@ -83,7 +83,7 @@ None
 None
 
 
-===== ORGANIZATIONAL STRUCTURE ANALYSIS =====
+===== ANALYSIS COMPLETE=====
 ```
 
 ---

@@ -51,7 +51,7 @@ public class Main {
         printOverpaidManagers(analyzer.findOverpaidManagers());
         printLongReportingLines(analyzer.findLongReportingLines());
 
-        System.out.println("\n===== ORGANIZATIONAL STRUCTURE ANALYSIS =====\n");
+        System.out.println("\n===== ANALYSIS COMPLETE =====\n");
     }
 
     /**
